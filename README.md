@@ -23,5 +23,5 @@ I'm a software engineering student with over 4 years of academic experience, pas
 
 ### 📫 Let's Connect
 * **Email:** ryanlocquiao16@gmail.com
-* **LinkedIn:** [Ryan Locquiao](https://www.linkedin.com/in/ryanlocquiao)
+* **LinkedIn:** [Ryan Locquiao](https://www.linkedin.com/in/jericryanlocquiao)
 * **Location:** Greater Seattle Area (Lynnwood / Bothell, WA)
